@@ -98,6 +98,7 @@ TELEGRAM-BR
 ### JAVA
 - [DevCodeBr Android/Java](https://t.me/devcodebr_android)
 - [JAVA PT](https://t.me/javaofficial_pt)
+- [JAVA BR](https://t.me/javabr)
 
 ### JAVASCRIPT
 - [JS BRASIL](https://telegram.me/javascriptbrasil)
